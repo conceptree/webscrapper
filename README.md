@@ -1,6 +1,8 @@
 # WebScrapper
 **Python Web Scrapper**
 
+Simple webscrapper using Pyton and BeautifullSoup.
+
 The program is coded to scrap three amazon stores, UK, ES and DE but feel free to reuse to your own purposes. I believe that que selectors will be the same across stores.
 
 ```
